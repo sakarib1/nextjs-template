@@ -21,6 +21,7 @@ app.prepare().then(async () => {
     path: '/{p*}' /* catch all route */,
     handler: nextHandlerWrapper(app),
   })
+  
 
   try {
     await server.start()

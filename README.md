@@ -4,6 +4,7 @@ Most of the time the default Next.js server will be enough but there are times y
 
 Because the Next.js server is a Node.js module you can combine it with any other part of the node.js ecosystem. In this case we are using [Hapi](https://hapijs.com).
 
+
 ## Preview
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
